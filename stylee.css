@@ -1,0 +1,15 @@
+body{
+    font-size: 1.45em;
+}
+h1{
+background-color: aqua;
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    text-decoration: dotted;
+}
+div{
+    color: beige;
+}
